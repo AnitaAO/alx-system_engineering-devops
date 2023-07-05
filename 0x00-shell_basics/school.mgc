@@ -1,2 +1,2 @@
-0 string HOLLY Holly file
-file -m school.mgc holly
+file school.txt
+school.txt: School data
